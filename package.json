@@ -1,0 +1,9 @@
+{
+  "registry": "jspm",
+  "main": "app/router",
+  "dependencies": {
+    "react": "^0.10.0",
+    "github:toranb/toranb-react-nested-router": "^0.1.0",
+    "github:toranb/toranb-react-cjs-ajax-mixin": "^0.1.0"
+  }
+}
