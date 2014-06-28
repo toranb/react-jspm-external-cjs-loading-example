@@ -6,8 +6,8 @@ jspm will also load 2 external CJS modules on demand (when you load inbox)
 npm install jspm
 
 jspm install react=github:reactjs/react-bower -o "{main: 'react', format: 'global'}" -f
-jspm install github:toranb/toranb-react-nested-router
-jspm install github:toranb/toranb-react-cjs-ajax-mixin
+jspm install react-nested-router=github:toranb/toranb-react-nested-router
+jspm install ajax-mixin=github:toranb/toranb-react-cjs-ajax-mixin
 
 jspm bundle app/router
 

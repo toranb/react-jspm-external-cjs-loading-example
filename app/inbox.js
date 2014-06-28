@@ -1,5 +1,5 @@
-import React from 'github:reactjs/react-bower';
-import AjaxMixin from 'github:toranb/toranb-react-cjs-ajax-mixin';
+import React from 'react';
+import AjaxMixin from 'ajax-mixin';
 
 var Inbox = React.createClass({
     render: function() {

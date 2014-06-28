@@ -1,4 +1,4 @@
-import React from 'github:reactjs/react-bower';
+import React from 'react';
 import AsyncReactComponent from './component';
 
 var PreInbox = React.createClass({displayName: 'PreInbox',
